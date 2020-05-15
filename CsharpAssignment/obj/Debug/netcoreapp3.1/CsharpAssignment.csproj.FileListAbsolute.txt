@@ -1,0 +1,13 @@
+C:\Users\WATT\Documents\TECHCareers\DotNet Assignment\CsharpAssignment\bin\Debug\netcoreapp3.1\CsharpAssignment.exe
+C:\Users\WATT\Documents\TECHCareers\DotNet Assignment\CsharpAssignment\bin\Debug\netcoreapp3.1\CsharpAssignment.deps.json
+C:\Users\WATT\Documents\TECHCareers\DotNet Assignment\CsharpAssignment\bin\Debug\netcoreapp3.1\CsharpAssignment.runtimeconfig.json
+C:\Users\WATT\Documents\TECHCareers\DotNet Assignment\CsharpAssignment\bin\Debug\netcoreapp3.1\CsharpAssignment.runtimeconfig.dev.json
+C:\Users\WATT\Documents\TECHCareers\DotNet Assignment\CsharpAssignment\bin\Debug\netcoreapp3.1\CsharpAssignment.dll
+C:\Users\WATT\Documents\TECHCareers\DotNet Assignment\CsharpAssignment\bin\Debug\netcoreapp3.1\CsharpAssignment.pdb
+C:\Users\WATT\Documents\TECHCareers\DotNet Assignment\CsharpAssignment\obj\Debug\netcoreapp3.1\CsharpAssignment.csprojAssemblyReference.cache
+C:\Users\WATT\Documents\TECHCareers\DotNet Assignment\CsharpAssignment\obj\Debug\netcoreapp3.1\CsharpAssignment.csproj.CoreCompileInputs.cache
+C:\Users\WATT\Documents\TECHCareers\DotNet Assignment\CsharpAssignment\obj\Debug\netcoreapp3.1\CsharpAssignment.AssemblyInfoInputs.cache
+C:\Users\WATT\Documents\TECHCareers\DotNet Assignment\CsharpAssignment\obj\Debug\netcoreapp3.1\CsharpAssignment.AssemblyInfo.cs
+C:\Users\WATT\Documents\TECHCareers\DotNet Assignment\CsharpAssignment\obj\Debug\netcoreapp3.1\CsharpAssignment.dll
+C:\Users\WATT\Documents\TECHCareers\DotNet Assignment\CsharpAssignment\obj\Debug\netcoreapp3.1\CsharpAssignment.pdb
+C:\Users\WATT\Documents\TECHCareers\DotNet Assignment\CsharpAssignment\obj\Debug\netcoreapp3.1\CsharpAssignment.genruntimeconfig.cache
